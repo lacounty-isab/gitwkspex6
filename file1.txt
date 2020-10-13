@@ -1,0 +1,11 @@
+# This file contains mappings.
+#
+a1 - 20
+a2 - 43
+
+b1 - 39
+b2 - 34
+b3 - 44
+
+c1 - 45
+c2 - 19
